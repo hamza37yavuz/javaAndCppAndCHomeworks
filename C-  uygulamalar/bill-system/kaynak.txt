@@ -1,0 +1,7 @@
+1 hamza-yavuz 210 230 200
+2 efe-nacak 280 270 290
+3 huseyin-yilmaz 200 210 220
+4 Yilmaz-Vural 190 180 200
+5 Kamil-Bozok 200 210 220
+6 Kadriye-Tuna 240 250 260
+7 Seher-Veyisoglu 110 120 130

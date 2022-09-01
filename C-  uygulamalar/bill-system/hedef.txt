@@ -1,0 +1,51 @@
+1 daire nolu hamza-yavuz adli kullanicinin 3 aylik elektrik kullanim miktari:
+Aralik:210 kw	193.20 tl 
+Kasim:230 kw	211.60 tl
+Ekim:200 kw	184.00 tl
+1 numarali daire 3 ayda 640 kw elektrik kullanmistir
+
+2 daire nolu efe-nacak adli kullanicinin 3 aylik elektrik kullanim miktari:
+Aralik:280 kw	257.60 tl 
+Kasim:270 kw	248.40 tl
+Ekim:290 kw	266.80 tl
+2 numarali daire 3 ayda 840 kw elektrik kullanmistir
+
+3 daire nolu huseyin-yilmaz adli kullanicinin 3 aylik elektrik kullanim miktari:
+Aralik:200 kw	184.00 tl 
+Kasim:210 kw	193.20 tl
+Ekim:220 kw	202.40 tl
+3 numarali daire 3 ayda 630 kw elektrik kullanmistir
+
+4 daire nolu Yilmaz-Vural adli kullanicinin 3 aylik elektrik kullanim miktari:
+Aralik:190 kw	174.80 tl 
+Kasim:180 kw	165.60 tl
+Ekim:200 kw	184.00 tl
+4 numarali daire 3 ayda 570 kw elektrik kullanmistir
+
+5 daire nolu Kamil-Bozok adli kullanicinin 3 aylik elektrik kullanim miktari:
+Aralik:200 kw	184.00 tl 
+Kasim:210 kw	193.20 tl
+Ekim:220 kw	202.40 tl
+5 numarali daire 3 ayda 630 kw elektrik kullanmistir
+
+6 daire nolu Kadriye-Tuna adli kullanicinin 3 aylik elektrik kullanim miktari:
+Aralik:240 kw	220.80 tl 
+Kasim:250 kw	230.00 tl
+Ekim:260 kw	239.20 tl
+6 numarali daire 3 ayda 750 kw elektrik kullanmistir
+
+7 daire nolu Seher-Veyisoglu adli kullanicinin 3 aylik elektrik kullanim miktari:
+Aralik:110 kw	101.20 tl 
+Kasim:120 kw	110.40 tl
+Ekim:130 kw	119.60 tl
+7 numarali daire 3 ayda 360 kw elektrik kullanmistir
+
+Binada 3 ayda kullanilan toplam elektrik miktari:4420 kw
+
+Binada ay baþýna kullanilan toplam elektrik miktarlari:
+Aralik 1430 kw
+Kasim 1470 kw
+Ekim 1520 kw
+
+Binada en fazla elektrik kullanilan daire numarasi 2 .	3 ayda 840 kw elektrik kullanmis ve 772.80 tl fatura odemistir.
+Binada en az elektrik kullanilan daire numarasi 7 .	3 ayda 360 kw elektrik kullanmis ve 331.20 tl fatura odemistir.
