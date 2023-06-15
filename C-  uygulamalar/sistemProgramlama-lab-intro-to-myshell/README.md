@@ -22,7 +22,5 @@ Buradaki hash fonksiyonu basit olarak stringin "kendisine benzer" bir string ver
   Size verilen test.c dosyasinda bir degisiklik yapmayiniz. 
   Sistemdeki testler sadece basit testler olup, programin her fonksiyonu test edilmemektedir. Bosluklara yeni satirlara vs dikkat ediniz. Testler test edilmedigi icin testlerde hata olabilir, dogru calistigindan eminseniz takilmayin. Notlandirma test sonuclarina bakilmaksizin yapilacaktir.
   
-  ## Degerlendirme
-  Sadece teslim edenlere 100 verilecektir. Haftaya proje bu lab uzerine verileceginden labi yapmaniz tavsiye edilir.
 
 
